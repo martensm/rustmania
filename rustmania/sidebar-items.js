@@ -1,1 +1,1 @@
-initSidebarItems({"constant":[["NOTEFIELD_SIZE",""]],"fn":[["main",""],["set_up_logging",""],["sprite_finder",""]],"mod":[["difficulty_calc",""],["gamestate",""],["music",""],["notedata",""],["notefield",""],["player_config",""],["screen",""],["song_loader",""],["text",""],["theme",""],["timingdata",""]]});
+initSidebarItems({"fn":[["load_song",""]]});
