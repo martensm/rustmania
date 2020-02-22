@@ -1,1 +1,1 @@
-initSidebarItems({"fn":[["map_to_string",""]]});
+initSidebarItems({"fn":[["add_one",""],["map_to_string",""],["music_path",""],["print_resource",""],["song_from_path",""],["song_path",""],["song_title",""],["subtract_one",""]]});
